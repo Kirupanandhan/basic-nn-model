@@ -97,15 +97,18 @@ ai_brain.predict(X_n1_1)
 
 ### Training Loss Vs Iteration Plot
 
-![image](https://github.com/Karthikeyan21001828/basic-nn-model/assets/93427303/fb911c58-eaf9-4d6a-aeb6-f6b8fc3a6f0f)
+![image](https://github.com/Kirupanandhan/basic-nn-model/assets/94386222/2a96f5cf-22bf-4683-b3e2-1b97082c2d95)
+
 
 ### Test Data Root Mean Squared Error
 
-![image](https://github.com/Karthikeyan21001828/basic-nn-model/assets/93427303/a7f4d4b9-3b13-405f-be72-bf5956347877)
+![image](https://github.com/Kirupanandhan/basic-nn-model/assets/94386222/01e242eb-0f38-4759-bbb7-0e898347ce81)
+
 
 ### New Sample Data Prediction
 
-![image](https://github.com/Karthikeyan21001828/basic-nn-model/assets/93427303/647265c6-bc5f-4a83-bf9c-cb48913c4e35)
+![image](https://github.com/Kirupanandhan/basic-nn-model/assets/94386222/4d6f4af4-26ec-4109-921c-dd2908d49cd3)
+
 
 ## RESULT
 A neural network regression model for the given dataset has been developed Sucessfully.
