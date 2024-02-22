@@ -90,7 +90,8 @@ ai_brain.predict(X_n1_1)
 
 ## Dataset Information
 
-![image](https://github.com/Karthikeyan21001828/basic-nn-model/assets/93427303/52234930-27cf-4a7d-9e83-e7e04418b02e)
+![image](https://github.com/Kirupanandhan/basic-nn-model/assets/94386222/7fc51e77-90c7-4ce5-aed4-50b48095ba82)
+
 
 ## OUTPUT
 
